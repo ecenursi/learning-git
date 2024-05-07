@@ -1,7 +1,4 @@
 # learning-git
-# learning-git
-# learning-git
-# learning-git
-# learning-git
-# learning-git
-# learning-git
+
+
+Hello world
